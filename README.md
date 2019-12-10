@@ -6,5 +6,5 @@ um das zu verwirklichen wollen wir Unity als Etwicklungsumgeung nutzen
 
 ### 10.12.19
 Unity Acount erstellt, erstes Pfrojekt erstellt
-
+https://www.youtube.com/watch?v=H7d2WfQ95ws angeschaut
 
