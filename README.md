@@ -8,3 +8,9 @@ um das zu verwirklichen wollen wir Unity als Etwicklungsumgeung nutzen
 Unity Acount erstellt, erstes Pfrojekt erstellt
 https://www.youtube.com/watch?v=H7d2WfQ95ws angeschaut
 
+### 11.12.19
+ohne Internet bissn unity probiert
+
+### 12.12.19
+Flo: Fl-Studio ausprobiert
+Tobi: Unity Tutorial
