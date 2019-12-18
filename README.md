@@ -14,3 +14,6 @@ ohne Internet bissn unity probiert
 ### 12.12.19
 Flo: Fl-Studio ausprobiert
 Tobi: Unity Tutorial
+
+### 18.12.19
+ohne Tobi Unity tutorial reingezogen
