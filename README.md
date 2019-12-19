@@ -17,3 +17,5 @@ Tobi: Unity Tutorial
 
 ### 18.12.19
 ohne Tobi Unity tutorial reingezogen
+### 19.12.19
+ohne Tobi Unity Tutorial und ausprobiert
