@@ -19,3 +19,9 @@ Tobi: Unity Tutorial
 ohne Tobi Unity tutorial reingezogen
 ### 19.12.19
 ohne Tobi Unity Tutorial und ausprobiert
+
+### Woche wo Flo nicht da war
+
+### 21.01.2020
+Tutorial geschaut kappa
+### 22.01.2020
