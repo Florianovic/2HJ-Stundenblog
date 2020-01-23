@@ -21,7 +21,13 @@ ohne Tobi Unity tutorial reingezogen
 ohne Tobi Unity Tutorial und ausprobiert
 
 ### Woche wo Flo nicht da war
-
+### 15.01.2020
+Tutorial zu Flappy bird geguckt
+### 16.01.2020
+Flappy bird online tutorial durchgearbeitet, zu einfach
 ### 21.01.2020
-Tutorial geschaut kappa
+Tutorial zu Flappy bird und Snap angeguckt
 ### 22.01.2020
+Tutorial zu scratch und snap angeguckt
+### 23.01.2020
+tutorial zu scratch, realisierbarkeit des Projektes geprüft
