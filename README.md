@@ -31,3 +31,7 @@ Tutorial zu Flappy bird und Snap angeguckt
 Tutorial zu scratch und snap angeguckt
 ### 23.01.2020
 tutorial zu scratch, realisierbarkeit des Projektes geprüft
+
+### 28.01.2020
+Neuanfang:Arduino Safe bauen mit Keypad und LCD-Display  
+LUL Penis
