@@ -34,4 +34,6 @@ tutorial zu scratch, realisierbarkeit des Projektes geprüft
 
 ### 28.01.2020
 Neuanfang:Arduino Safe bauen mit Keypad und LCD-Display  
-LUL Penis
+
+### 04.02.2020
+Test des Keypads, Tasten werden Erkannt und benannt
