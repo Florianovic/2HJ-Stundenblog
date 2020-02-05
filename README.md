@@ -38,3 +38,6 @@ Neuanfang:Arduino Safe bauen mit Keypad und LCD-Display
 ### 04.02.2020
 Test des Keypads, Tasten werden Erkannt und benannt
 <p align="center"><img width="400px" src="https://github.com/Florianovic/2HJ-Stundenblog/blob/master/TestKeypad.PNG"></p>
+
+### 05.02.2020
+LCD-Monitor Bauplan erstellt, Test für nächste Stune geplant
