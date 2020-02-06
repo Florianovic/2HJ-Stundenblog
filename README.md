@@ -41,3 +41,6 @@ Test des Keypads, Tasten werden Erkannt und benannt
 
 ### 05.02.2020
 LCD-Monitor Bauplan erstellt, Test für nächste Stune geplant
+
+### 06.02.2020
+Monitor funktioniert, Txt wird aber nicht angezeigt
