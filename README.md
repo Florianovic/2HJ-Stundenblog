@@ -168,3 +168,8 @@ void pinWrong() {
   }
 }
 
+### 13.02.2020
+Problem: zu wenig Pins am Arduino für LCD-Display, Keypad und Servo
+Lösung: Arduino Mega
+Mehr Pins
+Ausprobiert, Keypad und Servo vom letzten Mal an Arduino mega angeschlossen, selber Code, FUNZT
