@@ -173,3 +173,8 @@ Problem: zu wenig Pins am Arduino für LCD-Display, Keypad und Servo
 Lösung: Arduino Mega
 Mehr Pins
 Ausprobiert, Keypad und Servo vom letzten Mal an Arduino mega angeschlossen, selber Code, FUNZT
+
+### 14.02.2020
+mit LCD weiter probiert. Hat immer noch nix angezeigt, Umgekabelt, rumgekabelt, Bterie als Spannungsquelle probiert
+Tobi hatte zündende Idee, Kontrast soll schuld sein, Mit Variablen definiert um Problem zu lösen
+   
