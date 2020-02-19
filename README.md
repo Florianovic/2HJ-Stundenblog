@@ -177,4 +177,8 @@ Ausprobiert, Keypad und Servo vom letzten Mal an Arduino mega angeschlossen, sel
 ### 14.02.2020
 mit LCD weiter probiert. Hat immer noch nix angezeigt, Umgekabelt, rumgekabelt, Bterie als Spannungsquelle probiert
 Tobi hatte zündende Idee, Kontrast soll schuld sein, Mit Variablen definiert um Problem zu lösen
+hat nicht funktioniert
+
+### 19.02.2020
+Bauplan nochmal nachgebaut (Tobi hat Foto) WIr glauben, dass LC-Display schrott ist. Zeigt nur flackernde Felder. Altes Potentiometer funzt eigentlich
    
