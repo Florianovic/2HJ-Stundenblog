@@ -1,33 +1,28 @@
 # 2HJ-Stundenblog
 
 ### 4.12.19
-Wir haben uns überlegt, was für ein Projekt wir im zweiten Halbjahr machen wollen. Die Optionen waren: entweder weiter mit Arduino arbeiten oder etwas neues auszuprobieren. Wir haben uns entschlossen, ein Spiel zu machen.
-Um das zu verwirklichen, wollen wir Unity als Etwicklungsumgeung nutzen. Dieses Progamm ist kostenlos und uns vom NAmen her bekannt.
+Wir haben uns überlegt ein Spiel zu machen
+um das zu verwirklichen wollen wir Unity als Etwicklungsumgeung nutzen
 
 ### 10.12.19
-Heute haben wir uns einen Unity-Acount erstellt und ein erstes Projekt erstellt.
-Dabei haben wir uns an diesem YouTube-tutorial orintiert:
+Unity Acount erstellt, erstes Pfrojekt erstellt
 https://www.youtube.com/watch?v=H7d2WfQ95ws angeschaut
 
 ### 11.12.19
-Heute war dummerweise das Inerne der Schule ausgefallen und wir konnten uns nicht weiterdas Tutorial anschauen. Wir haben ohne Internet ein bischen mit Unity rumprobiert und versucht das Programm ein wenig zu verstehen. Wie wollten eine Welt bauen und haben versucht die einzelnen Komponenten aus einer importierten Sammlung zu einer Welt zusammen zu bauen aber wir haben nicht herausgefunden, wie man die Größe der Bausteine verändert. Damit war es nicht möglich die einzelnen importierten Bausteine mit dem vorgegebenen Raster des Programms abzugleichen.
+ohne Internet bissn unity probiert
 
 ### 12.12.19
-In Unserem Spiel möchten wir eigene Musik einfügen. Florian hat das Musikprogramm Fl-Studio, mit dem er angefangen hat einen Soundtrack zu basteln.
-Tobi hat hingegen weiter das Unity-Tutorial geschaut und das Programm ausprobiert.
+Flo: Fl-Studio ausprobiert
+Tobi: Unity Tutorial
 
 ### 18.12.19
-Tobi war nicht da doch uns wurde klar, dass unser Plan, ein Age-of-War-Spiel zu programmieren sich als sehr schwierig erweisen würde.
-Wir würden wohl erstmal mit einem leichteren Spiel anfangen müssen.
-Florian hat also ebenfalls mit Unity rumprobiert und das Tutorial geschaut.
-
+ohne Tobi Unity tutorial reingezogen
 ### 19.12.19
-Tobi war immer noch nicht da. Florian hat ein Unity-Flappy-Bird-Tutorial angeschaut und versucht es nachzumachen.
+ohne Tobi Unity Tutorial und ausprobiert
 
+### Woche wo Flo nicht da war
 ### 15.01.2020
-Heute war Florian nicht da. Tobi hat das Flappy-Bird-Tutorial durchgearbeitet und ein funktionierendes Spiel erstellt.
-Da dies einbisschn zu einfach war, haben wir beschlossen, ein anderes Spiel zu programmieren.
-
+Tutorial zu Flappy bird geguckt
 ### 16.01.2020
 Flappy bird online tutorial durchgearbeitet, zu einfach
 ### 21.01.2020
@@ -180,10 +175,10 @@ Mehr Pins
 Ausprobiert, Keypad und Servo vom letzten Mal an Arduino mega angeschlossen, selber Code, FUNZT
 
 ### 14.02.2020
-mit LCD weiter probiert. Hat immer noch nix angezeigt, Umgekabelt, rumgekabelt, Bterie als Spannungsquelle probiert
-Tobi hatte zündende Idee, Kontrast soll schuld sein, Mit Variablen definiert um Problem zu lösen
-hat nicht funktioniert
+Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg
 
 ### 19.02.2020
-Bauplan nochmal nachgebaut (Tobi hat Foto) WIr glauben, dass LC-Display schrott ist. Zeigt nur flackernde Felder. Altes Potentiometer funzt eigentlich
-   
+Heute haben wir einen weiteren <a href="https://create.arduino.cc/projecthub/zurrealStudios/lcd-backlight-and-contrast-control-6d3452"> Bauplan</a> versucht nachzubauen. Leider blieb auch dieser Versuch ergebnislos, der Monitor zeigte erneut nur flackernd Felder an, wir vermuten, dass der Monitor defekt ist. Der Kontrast des Hintergrunds lässt sich hingegen durch das Potentiometer problemlos verstellen. Herr Buhl hat einen neuen LCD-Display bestellt, sowie kleinere, handliche Potentiometer. Diese sollten in den nächsten Stunden verfügbar sein.
+
+### 20.02.2020
+Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen unsere freie Zeit zu nutzen und den Stundenblog auszubessern.
