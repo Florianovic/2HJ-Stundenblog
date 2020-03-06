@@ -182,3 +182,6 @@ Heute haben wir einen weiteren <a href="https://create.arduino.cc/projecthub/zur
 
 ### 20.02.2020
 Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen unsere freie Zeit zu nutzen und den Stundenblog auszubessern.
+
+### 06.03.2020
+Heute war Tobias nicht da aberdie Lieferung ist angekommen. Neues LCD, kleines Potentiometer werden jetzt auprobiert. Bauplan aus de Internet
