@@ -185,3 +185,5 @@ Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen uns
 
 ### 06.03.2020
 Heute war Tobias nicht da aberdie Lieferung ist angekommen. Neues LCD, kleines Potentiometer werden jetzt auprobiert. Bauplan aus de Internet
+### 11.03.2020
+Versuche das LCD anzuschmeißen
