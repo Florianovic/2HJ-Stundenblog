@@ -1,15 +1,16 @@
 # 2HJ-Stundenblog
 
 ### 4.12.19
-Wir haben uns überlegt ein Spiel zu machen
-um das zu verwirklichen wollen wir Unity als Etwicklungsumgeung nutzen
+Das neue Halbjahr startet und wir müssen uns ein neues Projekt überlegen. Im letzten halbjahr haben wir mit einem "Arduino UNO" eine "Useless-Box" gabaut. Viele andere aus unserem Kurs haben Computerspiele entwickelt und auch wir haben uns nun überlegt, uns daran zu versuchen. Die Entwicklungsumgebung "Unity" war uns schon vom Namen her bekannt und wir haben uns gleich in der ersten Stunde ein Tutorial dazu angeschaut.
+
+--LINK--
 
 ### 10.12.19
-Unity Acount erstellt, erstes Pfrojekt erstellt
-https://www.youtube.com/watch?v=H7d2WfQ95ws angeschaut
+Heute haben wir uns Unity heruntergeladen und einen Acount erstellt. Wir haben ein erstes Projekt erstellt und versucht, das Tutorial durchzugehen.
+https://www.youtube.com/watch?v=H7d2WfQ95ws 
 
 ### 11.12.19
-ohne Internet bissn unity probiert
+Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen.
 
 ### 12.12.19
 Flo: Fl-Studio ausprobiert
