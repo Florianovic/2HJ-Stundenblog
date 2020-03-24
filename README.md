@@ -10,22 +10,26 @@ Heute haben wir uns Unity heruntergeladen und einen Acount erstellt. Wir haben e
 https://www.youtube.com/watch?v=H7d2WfQ95ws 
 
 ### 11.12.19
-Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen.
+Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen. 
 
 ### 12.12.19
-Flo: Fl-Studio ausprobiert
-Tobi: Unity Tutorial
+Für unser Spiel wollten wir, wie auch eine gruppe im letzten Halbjahr, unsere eigene Musik einfügen. Dafür hat sich Florian das Programm Fl-Studio runtergeladen und auch hier eine Tutorialreihe angefangen.
+LINK
+Tobias hat sich weiter über Unity informiert und am Tutorial weitergearbeitet.
 
 ### 18.12.19
-ohne Tobi Unity tutorial reingezogen
+Heute war Tobi nicht da und Florian hat sich weiter das Tutorial zu Fl-Studio angeschaut.
+Um nun aber mit dem Computerspiel voran zu kommen hat Florian sich in der zweiten Hälfte der Stunde daran gemacht, das Problem mit den zu kleinen Texturen zu lösen. Leider hat er dabei keine Lösung gefunden.
+
 ### 19.12.19
-ohne Tobi Unity Tutorial und ausprobiert
+Auch heute war Tobi nicht da und Florian hat weiterhin versucht Unity zu vertshen. Er hat nach weiteren Tutorials gesucht doch keins gefunden was die Fragen beantwortet und uns wirklich weiter bringt.
 
 ### Woche wo Flo nicht da war
 ### 15.01.2020
 Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen. Zu erst hat Tobi sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
 ### 16.01.2020
-Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-Bird, welches durch setzen von einfachen Blöcken ein wirklich einfaches Programmieren ermöglicht. Allerdings war dieses Programm zum Ende der Stunde durchgearbeitet und ein Fertiges Flappy-Bird Spiel war geschaffen, sodass wir uns dazu entschieden diesen Versuch wegen seiner geringen Komplexität wieder einzustampfen.
+Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-Bird, welches durch setzen von einfachen Blöcken ein wirklich einfaches Programmieren ermöglicht. Allerdings war dieses Programm zum Ende der Stunde durchgearbeitet und ein Fertiges Flappy-Bird Spiel war geschaffen, sodass wir uns dazu entschieden diesen Versuch wegen seiner geringen Komplexität wieder einzustampfen. 
+
 ### 21.01.2020
 Tutorial zu Flappy bird und Snap angeguckt
 ### 22.01.2020
@@ -199,4 +203,4 @@ Dennis hat mich unerwartet angeschrieben mit der Nachricht, das er seinen LCD zu
 Heute habe ich versucht den LCD zum laufen zu bringen und habe exakt den Code, welchen Dennis mir geschickt hat abgetippt. Leider funktioniert der LCD immer noch nicht - vielleicht habe ich das Ganze falsch verkabelt? Ich habe Dennis erneut angeschrieben und nachgefragt. Die Antwort kam schnell, anscheinend habe ich alles richtig verkabelt. Ich habe sowohl den Arduino Uno als auch den Arduino Mega 2560 angeschlossen um auszuschließen, dass hier kein Fehler/Beschädigung vorliegt. Morgen werde ich weiter versuchen den LCD zum laufen zu bringen, allerdings fallen mir momentan keine weiteren möglichen Fehlerquelen ein.
 
 ### 22.03.2020
-Ich habe weiter überlegt was der Fehler sein könnte. Die einzige Fehlerquelle, welche mir noch einfällt ist, dass ich falsche oder veraltete librarys habe und somit nicht alles Funktioniert. Allerings Zeigt die Konsole des Arduino an, dass der Code fehlerfrei abgelesen werden kann. Mir fällt keine andere Möglichkeit mehr ein, villeicht kommen mir in den nächsten Tagen noch ein paar Ideeen.
+Ich habe weiter überlegt was der Fehler sein könnte. Die einzige Fehlerquelle, welche mir noch einfällt ist, dass ich falsche oder veraltete librarys habe und somit nicht alles Funktioniert. Allerings Zeigt die Konsole des Arduino an, dass der Code fehlerfrei abgelesen werden kann. Mir fällt keine andere Möglichkeit mehr ein, villeicht kommen mir in den nächsten Tagen noch ein paar Ideen.
