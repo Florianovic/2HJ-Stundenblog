@@ -23,9 +23,8 @@ Um nun aber mit dem Computerspiel voran zu kommen hat Florian sich in der zweite
 ### 19.12.19
 Auch heute war Tobi nicht da und Florian hat weiterhin versucht Unity zu vertshen. Er hat nach weiteren Tutorials gesucht doch keins gefunden was die Fragen beantwortet und uns wirklich weiter bringt.
 
-### Woche wo Flo nicht da war
 ### 15.01.2020
-Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen. Zu erst hat Tobi sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
+Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen.Florian war heute nicht da und Tobi hat sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
 
 ### 16.01.2020
 Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-Bird, welches durch setzen von einfachen Blöcken ein wirklich einfaches Programmieren ermöglicht. Allerdings war dieses Programm zum Ende der Stunde durchgearbeitet und ein Fertiges Flappy-Bird Spiel war geschaffen, sodass wir uns dazu entschieden diesen Versuch wegen seiner geringen Komplexität wieder einzustampfen. 
