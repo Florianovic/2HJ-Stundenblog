@@ -46,19 +46,20 @@ Neuanfang:
 Wir haben uns überlegt einige neue Komponenten mit dem Arduino auszuprobieren und einen Arduino-Safe zu bauen. Dafür wollen wir ein Keypad und ein LCD-Display einbauen. Das ganze soll so funktionieren, dass wir über das Key-Pad einen Code eingeben, welcher auf dem LCD angezeigt wird und bei richtiger Eingabe einen Servo betätigt, welcher als "Verschluss" des Safes fungiert.
 
 ### 04.02.2020
-Test des Keypads, Tasten werden Erkannt und benannt
+Heute haben wir dasKeypad getestet. Die Tasten werden Erkannt und benannt
 <p align="center"><img width="400px" src="https://github.com/Florianovic/2HJ-Stundenblog/blob/master/TestKeypad.PNG"></p>
 
 ### 05.02.2020
-LCD-Monitor Bauplan erstellt, Test für nächste Stune geplant
+Für die nächste Komponente, den LCD-Monitor, haben wir uns einen Bauplan aus dem Internet gesucht und uns alle Bestandteile zusammengesucht. Leider haben wir kein kleines Potentiometer an der Schule weswegen wir ein sehr altes und großes aus der Physik benutzen wollen. Der Test ist für nächste Stunde geplant
 
 ### 06.02.2020
-Monitor funktioniert, Text wird aber nicht angezeigt
+Wir haben die Schalung aufgebaut und einen Sketch aus dem Internet kopiert. DerMonitor funktioniert, der Text wird jedoch nicht angezeigt. Auch nach mehreren Versuchen und dem Verstellen des Potentiometers hat das LCD nur blau geleuchtet aber keine Symbole gezeigt.
 
 ### 12.02.2020
->Aufgabenteilung, Tobi:LCD-Display, Flo: Keypad
-Flo:
-Code kopiert:
+
+Wir haben eine Aufgabenteilung vorgenommen um schneller voran zu kommen. Tobiversucht nun das LCD-Display zum Laufen zu bekommen und Florian erstellt den Sketch fü das Keypad.
+Florian hat ein Sketch kopiert um dessen Aufbau zu verstehen.
+
 #include <Keypad.h>
 #include <Servo.h> 
 
@@ -179,10 +180,9 @@ void pinWrong() {
 }
 
 ### 13.02.2020
-Problem: zu wenig Pins am Arduino für LCD-Display, Keypad und Servo
-Lösung: Arduino Mega
-Mehr Pins
-Ausprobiert, Keypad und Servo vom letzten Mal an Arduino mega angeschlossen, selber Code, FUNZT
+Wir haben ein Problem:Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
+Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
+Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
 
 ### 14.02.2020
 Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg
@@ -194,9 +194,10 @@ Heute haben wir einen weiteren <a href="https://create.arduino.cc/projecthub/zur
 Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen unsere freie Zeit zu nutzen und den Stundenblog auszubessern.
 
 ### 06.03.2020
-Heute war Tobias nicht da aberdie Lieferung ist angekommen. Neues LCD, kleines Potentiometer werden jetzt auprobiert. Bauplan aus de Internet
+Heute war Tobi nicht da aber die Lieferung ist angekommen. Ein neues, kleineres LCD und ein kleines Potentiometer. Da das neue LCD weniger Pins hat, ist Florian wieder auf den ArduinoUNO umgestiegen und hat mit dem alten Bauplan versucht die Teile zu testen. Leider ohne Erfolg.
+
 ### 11.03.2020
-Versuche das LCD anzuschmeißen
+Auch heute haben wir vergeblich versucht das neue LCD zum Laufen zu bringen. Wir haben viele verschiedene Codes aus dem Internet ausprobiert, auf mehreren Geräten die Library installiert und den Sketch geschrieben aber alles blieb erfolglos.
 
 ### 13.03.2020
 Corona steht vor der Tür und die Chancen stehen sehr hoch, dass ab Montag kein Unterricht mehr ist. Wir haben uns also dazu entschlossen unsere Arbeit aufzuteilen und die Materialien mit nach Hause zu nehmen. Florian wird das Stundenprotokoll weiter ausarbeiten, Tobi nimmt die Hardware mit und wird versuchen den LCD zum laufen zu bringen.
