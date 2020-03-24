@@ -2,8 +2,7 @@
 
 ### 4.12.19
 Das neue Halbjahr startet und wir müssen uns ein neues Projekt überlegen. Im letzten halbjahr haben wir mit einem "Arduino UNO" eine "Useless-Box" gabaut. Viele andere aus unserem Kurs haben Computerspiele entwickelt und auch wir haben uns nun überlegt, uns daran zu versuchen. Die Entwicklungsumgebung "Unity" war uns schon vom Namen her bekannt und wir haben uns gleich in der ersten Stunde ein Tutorial dazu angeschaut.
-
---LINK--
+https://www.youtube.com/watch?v=DZbQRw-ftnU
 
 ### 10.12.19
 Heute haben wir uns Unity heruntergeladen und einen Acount erstellt. Wir haben ein erstes Projekt erstellt und versucht, das Tutorial durchzugehen.
@@ -33,7 +32,7 @@ Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-B
 
 ### 21.01.2020
 Da wir nun schon viel Zeit in Unity gesteckt haben aber noch ganz am Anfang stehen und auf der Stelle treten haben wir uns entschlossen nach alternativen Entwicklungsumgebungen zu suchen. Wir entdeckten "Snap" und schauten uns Videos dazu auf YouTube an.
-LINK
+https://www.youtube.com/watch?v=kSLnwUuE3Xg
 
 ### 22.01.2020
 Heute haben wir uns eine weitere Entwicklungsumgebung namens "Scratch" angeschaut und ein YouTube-Tutorial dazu angefangen.
