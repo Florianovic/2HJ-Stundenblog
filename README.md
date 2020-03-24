@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=H7d2WfQ95ws
 Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen. 
 
 ### 12.12.19
-Für unser Spiel wollten wir, wie auch eine gruppe im letzten Halbjahr, unsere eigene Musik einfügen. Dafür hat sich Florian das Programm Fl-Studio runtergeladen und auch hier eine Tutorialreihe angefangen.
+Für unser Spiel wollten wir, wie auch eine Gruppe im letzten Halbjahr, unsere eigene Musik einfügen. Dafür hat sich Florian das Programm Fl-Studio runtergeladen und auch hier eine Tutorialreihe angefangen.
 LINK
 Tobias hat sich weiter über Unity informiert und am Tutorial weitergearbeitet.
 
@@ -27,18 +27,23 @@ Auch heute war Tobi nicht da und Florian hat weiterhin versucht Unity zu vertshe
 ### Woche wo Flo nicht da war
 ### 15.01.2020
 Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen. Zu erst hat Tobi sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
+
 ### 16.01.2020
 Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-Bird, welches durch setzen von einfachen Blöcken ein wirklich einfaches Programmieren ermöglicht. Allerdings war dieses Programm zum Ende der Stunde durchgearbeitet und ein Fertiges Flappy-Bird Spiel war geschaffen, sodass wir uns dazu entschieden diesen Versuch wegen seiner geringen Komplexität wieder einzustampfen. 
 
 ### 21.01.2020
-Tutorial zu Flappy bird und Snap angeguckt
+Da wir nun schon viel Zeit in Unity gesteckt haben aber noch ganz am Anfang stehen und auf der Stelle treten haben wir uns entschlossen nach alternativen Entwicklungsumgebungen zu suchen. Wir entdeckten "Snap" und schauten uns Videos dazu auf YouTube an.
+LINK
+
 ### 22.01.2020
-Tutorial zu scratch und snap angeguckt
+Heute haben wir uns eine weitere Entwicklungsumgebung namens "Scratch" angeschaut und ein YouTube-Tutorial dazu angefangen.
+
 ### 23.01.2020
-tutorial zu scratch, realisierbarkeit des Projektes geprüft
+Nachdem wir uns nun mit einigen Programmen beschäftigt haben aber es nicht geschafft haben uns mit ihnen vernünftig auseinanderzusetzten und bis jetzt absolut keine Ergebnisse hatten, haben wir uns nun dazu entschieden das Projekt "Spiel entwickeln" aufzugeben. Stattdessen wollten wir nun doch lieber wieder etwas mit dem, uns bereits bekannten Arduino machen
 
 ### 28.01.2020
-Neuanfang:Arduino Safe bauen mit Keypad und LCD-Display  
+Neuanfang:
+Wir haben uns überlegt einige neue Komponenten mit dem Arduino auszuprobieren und einen Arduino-Safe zu bauen. Dafür wollen wir ein Keypad und ein LCD-Display einbauen. Das ganze soll so funktionieren, dass wir über das Key-Pad einen Code eingeben, welcher auf dem LCD angezeigt wird und bei richtiger Eingabe einen Servo betätigt, welcher als "Verschluss" des Safes fungiert.
 
 ### 04.02.2020
 Test des Keypads, Tasten werden Erkannt und benannt
