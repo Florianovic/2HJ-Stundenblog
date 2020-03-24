@@ -23,9 +23,9 @@ ohne Tobi Unity Tutorial und ausprobiert
 
 ### Woche wo Flo nicht da war
 ### 15.01.2020
-Tutorial zu Flappy bird geguckt
+Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen. Zu erst hat Tobi sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
 ### 16.01.2020
-Flappy bird online tutorial durchgearbeitet, zu einfach
+Diese Stunde hat Tobi ein online Tutorial durchgearbeitet, ebenfalls zu Flappy-Bird, welches durch setzen von einfachen Blöcken ein wirklich einfaches Programmieren ermöglicht. Allerdings war dieses Programm zum Ende der Stunde durchgearbeitet und ein Fertiges Flappy-Bird Spiel war geschaffen, sodass wir uns dazu entschieden diesen Versuch wegen seiner geringen Komplexität wieder einzustampfen.
 ### 21.01.2020
 Tutorial zu Flappy bird und Snap angeguckt
 ### 22.01.2020
@@ -188,3 +188,15 @@ Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen uns
 Heute war Tobias nicht da aberdie Lieferung ist angekommen. Neues LCD, kleines Potentiometer werden jetzt auprobiert. Bauplan aus de Internet
 ### 11.03.2020
 Versuche das LCD anzuschmeißen
+
+### 13.03.2020
+Corona steht vor der Tür und die Chancen stehen sehr hoch, dass ab Montag kein Unterricht mehr ist. Wir haben uns also dazu entschlossen unsere Arbeit aufzuteilen und die Materialien mit nach Hause zu nehmen. Florian wird das Stundenprotokoll weiter ausarbeiten, Tobi nimmt die Hardware mit und wird versuchen den LCD zum laufen zu bringen.
+
+### 19.03.2020
+Dennis hat mich unerwartet angeschrieben mit der Nachricht, das er seinen LCD zum laufen gebracht habe und ob wir noch Hilfe benötigen. Ich habe dankend angenommen, worauf mich Dennis auf ihr Stundenprotokoll zu ihrem Teeautomat verwies.
+
+### 20.03.2020
+Heute habe ich versucht den LCD zum laufen zu bringen und habe exakt den Code, welchen Dennis mir geschickt hat abgetippt. Leider funktioniert der LCD immer noch nicht - vielleicht habe ich das Ganze falsch verkabelt? Ich habe Dennis erneut angeschrieben und nachgefragt. Die Antwort kam schnell, anscheinend habe ich alles richtig verkabelt. Ich habe sowohl den Arduino Uno als auch den Arduino Mega 2560 angeschlossen um auszuschließen, dass hier kein Fehler/Beschädigung vorliegt. Morgen werde ich weiter versuchen den LCD zum laufen zu bringen, allerdings fallen mir momentan keine weiteren möglichen Fehlerquelen ein.
+
+### 22.03.2020
+Ich habe weiter überlegt was der Fehler sein könnte. Die einzige Fehlerquelle, welche mir noch einfällt ist, dass ich falsche oder veraltete librarys habe und somit nicht alles Funktioniert. Allerings Zeigt die Konsole des Arduino an, dass der Code fehlerfrei abgelesen werden kann. Mir fällt keine andere Möglichkeit mehr ein, villeicht kommen mir in den nächsten Tagen noch ein paar Ideeen.
