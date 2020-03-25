@@ -203,6 +203,7 @@ Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen uns
 ### 06.03.2020
 Heute war Tobi nicht da aber die Lieferung ist angekommen. Ein neues, kleineres LCD und ein kleines Potentiometer. Da das neue LCD weniger Pins hat, ist Florian wieder auf den ArduinoUNO umgestiegen und hat mit dem alten Bauplan versucht die Teile zu testen. Leider ohne Erfolg.
 ![LCD](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/LCD%20Bauplan.jfif)
+
 kleineres LCD mit weniger Pins
 
 ### 11.03.2020
