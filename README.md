@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=kSLnwUuE3Xg
 
 ### 22.01.2020
 Heute haben wir uns eine weitere Entwicklungsumgebung namens "Scratch" angeschaut und ein YouTube-Tutorial dazu angefangen.
+https://www.youtube.com/watch?v=O-CNjHsYE20
 
 ### 23.01.2020
 Nachdem wir uns nun mit einigen Programmen beschäftigt haben aber es nicht geschafft haben uns mit ihnen vernünftig auseinanderzusetzten und bis jetzt absolut keine Ergebnisse hatten, haben wir uns nun dazu entschieden das Projekt "Spiel entwickeln" aufzugeben. Stattdessen wollten wir nun doch lieber wieder etwas mit dem, uns bereits bekannten Arduino machen
