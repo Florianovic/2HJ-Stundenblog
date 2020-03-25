@@ -15,7 +15,7 @@ Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen 
 
 ### 12.12.19
 Für unser Spiel wollten wir, wie auch eine Gruppe im letzten Halbjahr, unsere eigene Musik einfügen. Dafür hat sich Florian das Programm Fl-Studio runtergeladen und auch hier eine Tutorialreihe angefangen.
-LINK
+https://www.youtube.com/watch?v=EzqIFVlRrMQ
 Tobias hat sich weiter über Unity informiert, versucht die texturen anzupassen und am Tutorial weitergearbeitet.
 
 ### 18.12.19
