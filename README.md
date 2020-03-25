@@ -181,7 +181,7 @@ void pinWrong() {
 Wir haben ein Problem:Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
 Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
 Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
-![ArduinoMega] https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
+![ArduinoMega](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
 
 
 ### 14.02.2020
