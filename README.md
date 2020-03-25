@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=H7d2WfQ95ws
 
 ### 11.12.19
 Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen. Wir stießen früh auf ein Problem, denn es gelang uns nicht, eingefügte texturen an die Strukturgitter des Programmes anzupassen. Die Größe der Texturen ließ sich nicht verändern und somit auch nicht an den Aufbau des Programmes anpassen was das Ganze sehr unstrukturiert und übersichtlich machte.
+
 ![Unity](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Unity%20schei%C3%9F.PNG)
 
 ### 12.12.19
@@ -180,6 +181,7 @@ void pinWrong() {
 }
 
 Diesen Sketch hat er dann ausprobiert und die Schaltung mit Servo und Keypad aufgebaut und mit Erfolg getestet.
+
 ![Arduino Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%2BServo%2BKeypad.jpg)
 
 ### 13.02.2020
@@ -190,10 +192,12 @@ Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteige
 *Arduino Mega mit mehr Pins*
 
 Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
+
 ![ArduinoMega Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/ArduinoMega%2BSchaltung.jpg)
 
 ### 14.02.2020
 Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg.
+
 ![Schaltung mit LCD](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/d2ac15d0-de82-4b59-b0e7-86da055b78c3.jpg)
 
 ### 19.02.2020
