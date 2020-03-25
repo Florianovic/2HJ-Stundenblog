@@ -39,18 +39,18 @@ Heute haben wir uns eine weitere Entwicklungsumgebung namens "Scratch" angeschau
 https://www.youtube.com/watch?v=O-CNjHsYE20
 
 ### 23.01.2020
-Nachdem wir uns nun mit einigen Programmen beschäftigt haben aber es nicht geschafft haben uns mit ihnen vernünftig auseinanderzusetzten und bis jetzt absolut keine Ergebnisse hatten, haben wir uns nun dazu entschieden das Projekt "Spiel entwickeln" aufzugeben. Stattdessen wollten wir nun doch lieber wieder etwas mit dem, uns bereits bekannten Arduino machen
+Nachdem wir uns nun mit einigen Programmen beschäftigt haben aber es nicht geschafft haben, uns mit ihnen vernünftig auseinanderzusetzten und bis jetzt absolut keine Ergebnisse hatten, haben wir uns nun dazu entschieden, das Projekt "Spiel entwickeln" aufzugeben. Stattdessen wollten wir nun doch lieber wieder etwas mit dem uns bereits bekannten Arduino machen
 
 ### 28.01.2020
 Neuanfang:
-Wir haben uns überlegt einige neue Komponenten mit dem Arduino auszuprobieren und einen Arduino-Safe zu bauen. Dafür wollen wir ein Keypad und ein LCD-Display einbauen. Das ganze soll so funktionieren, dass wir über das Key-Pad einen Code eingeben, welcher auf dem LCD angezeigt wird und bei richtiger Eingabe einen Servo betätigt, welcher als "Verschluss" des Safes fungiert.
+Wir haben uns überlegt einige neue Komponenten mit dem Arduino auszuprobieren und einen "Arduino-Safe" zu bauen. Dafür wollen wir ein Keypad und ein LCD-Display einbauen. Das ganze soll so funktionieren, dass wir über das Key-Pad einen Code eingeben, welcher auf dem LCD angezeigt wird und bei richtiger Eingabe einen Servo betätigt, welcher als "Verschluss" des Safes fungiert.
 
 ### 04.02.2020
 Heute haben wir das Keypad getestet. Die Tasten werden Erkannt und benannt
 <p align="center"><img width="400px" src="https://github.com/Florianovic/2HJ-Stundenblog/blob/master/TestKeypad.PNG"></p>
 
 ### 05.02.2020
-Für die nächste Komponente, den LCD-Monitor, haben wir uns einen Bauplan aus dem Internet gesucht und uns alle Bestandteile zusammengesucht. Leider haben wir kein kleines Potentiometer an der Schule weswegen wir ein sehr altes und großes aus der Physik benutzen wollen. Der Test ist für nächste Stunde geplant
+Für die nächste Komponente, den LCD-Monitor, haben wir uns einen Bauplan aus dem Internet gesucht und uns alle Bestandteile zusammengesucht. Leider haben wir kein kleines Potentiometer an der Schule, weswegen wir ein sehr altes und großes aus der Physik benutzen wollen. Der Test ist für nächste Stunde geplant
 
 ### 06.02.2020
 Wir haben die Schalung aufgebaut und einen Sketch aus dem Internet kopiert. Der Monitor funktioniert, der Text wird jedoch nicht angezeigt. Auch nach mehreren Versuchen und dem Verstellen des Potentiometers hat das LCD nur blau geleuchtet aber keine Symbole gezeigt.
