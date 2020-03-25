@@ -44,14 +44,14 @@ Neuanfang:
 Wir haben uns überlegt einige neue Komponenten mit dem Arduino auszuprobieren und einen Arduino-Safe zu bauen. Dafür wollen wir ein Keypad und ein LCD-Display einbauen. Das ganze soll so funktionieren, dass wir über das Key-Pad einen Code eingeben, welcher auf dem LCD angezeigt wird und bei richtiger Eingabe einen Servo betätigt, welcher als "Verschluss" des Safes fungiert.
 
 ### 04.02.2020
-Heute haben wir dasKeypad getestet. Die Tasten werden Erkannt und benannt
+Heute haben wir das Keypad getestet. Die Tasten werden Erkannt und benannt
 <p align="center"><img width="400px" src="https://github.com/Florianovic/2HJ-Stundenblog/blob/master/TestKeypad.PNG"></p>
 
 ### 05.02.2020
 Für die nächste Komponente, den LCD-Monitor, haben wir uns einen Bauplan aus dem Internet gesucht und uns alle Bestandteile zusammengesucht. Leider haben wir kein kleines Potentiometer an der Schule weswegen wir ein sehr altes und großes aus der Physik benutzen wollen. Der Test ist für nächste Stunde geplant
 
 ### 06.02.2020
-Wir haben die Schalung aufgebaut und einen Sketch aus dem Internet kopiert. DerMonitor funktioniert, der Text wird jedoch nicht angezeigt. Auch nach mehreren Versuchen und dem Verstellen des Potentiometers hat das LCD nur blau geleuchtet aber keine Symbole gezeigt.
+Wir haben die Schalung aufgebaut und einen Sketch aus dem Internet kopiert. Der Monitor funktioniert, der Text wird jedoch nicht angezeigt. Auch nach mehreren Versuchen und dem Verstellen des Potentiometers hat das LCD nur blau geleuchtet aber keine Symbole gezeigt.
 
 ### 12.02.2020
 
@@ -177,12 +177,18 @@ void pinWrong() {
   }
 }
 
+Diesen Sketch hat er dann ausprobiert und die Schaltung mit Servo und Keypad aufgebaut und mit Erfolg getestet.
+![Arduino Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%2BServo%2BKeypad.jpg)
+
 ### 13.02.2020
 Wir haben ein Problem:Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
 Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
-Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
-![ArduinoMega](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
 
+![ArduinoMega](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
+Arduino Mega mit mehr Pins
+
+Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
+![ArduinoMega Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/ArduinoMega%2BSchaltung.jpg)
 
 ### 14.02.2020
 Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg
@@ -195,6 +201,8 @@ Da wir immer noch auf die neuen Teile warten haben wir uns dazu entschlossen uns
 
 ### 06.03.2020
 Heute war Tobi nicht da aber die Lieferung ist angekommen. Ein neues, kleineres LCD und ein kleines Potentiometer. Da das neue LCD weniger Pins hat, ist Florian wieder auf den ArduinoUNO umgestiegen und hat mit dem alten Bauplan versucht die Teile zu testen. Leider ohne Erfolg.
+![LCD](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/LCD%20Bauplan.jfif)
+kleineres LCD mit weniger Pins
 
 ### 11.03.2020
 Auch heute haben wir vergeblich versucht das neue LCD zum Laufen zu bringen. Wir haben viele verschiedene Codes aus dem Internet ausprobiert, auf mehreren Geräten die Library installiert und den Sketch geschrieben aber alles blieb erfolglos.
