@@ -187,7 +187,7 @@ Wir haben ein Problem: Wir haben zu wenig Pins am Arduino für LCD-Display, Keyp
 Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
 
 ![ArduinoMega](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
-Arduino Mega mit mehr Pins
+*Arduino Mega mit mehr Pins*
 
 Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
 ![ArduinoMega Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/ArduinoMega%2BSchaltung.jpg)
@@ -207,7 +207,7 @@ Heute war Tobi nicht da aber die Lieferung ist angekommen. Ein neues, kleineres 
 
 ![LCD](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/LCD%20Bauplan.jfif)
 
-kleineres LCD mit weniger Pins
+*kleineres LCD mit weniger Pins*
 
 ### 11.03.2020
 Auch heute haben wir vergeblich versucht das neue LCD zum Laufen zu bringen. Wir haben viele verschiedene Codes aus dem Internet ausprobiert, auf mehreren Geräten die Library installiert und den Sketch geschrieben aber alles blieb erfolglos.
