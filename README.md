@@ -181,7 +181,8 @@ void pinWrong() {
 Wir haben ein Problem:Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
 Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
 Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega angeschlossen,den selben Code eingefügt und es hat funktioniert.
-<p https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg p>
+<p align="center"><img width="400px" src=" https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg"></p>
+
 
 ### 14.02.2020
 Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg
