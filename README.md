@@ -193,7 +193,8 @@ Um es zu testen haben wir Keypad und Servo vom letzten Mal an den Arduino mega a
 ![ArduinoMega Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/ArduinoMega%2BSchaltung.jpg)
 
 ### 14.02.2020
-Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg
+Wir haben heute weiter probiert das LCD-Display zum laufen zu bringen, leider weiterhin erfolglos. Wir haben verschiedenste Verkabelungen und Codes ausprobiert, versucht eine Batterie als Spannungsquelle anzuschließen. Leider hat alles nicht zu einem Weiterführenden Ergebnis geführt. Des Weiteren versuchten wir über eine Umstellung des Kontrastes durch Variablen einen Schritt in die Richtige Richtung zu tun, leider ebenso ohne Erfolg.
+![Schaltung mit LCD](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/d2ac15d0-de82-4b59-b0e7-86da055b78c3.jpg)
 
 ### 19.02.2020
 Heute haben wir einen weiteren <a href="https://create.arduino.cc/projecthub/zurrealStudios/lcd-backlight-and-contrast-control-6d3452"> Bauplan</a> versucht nachzubauen. Leider blieb auch dieser Versuch ergebnislos, der Monitor zeigte erneut nur flackernd Felder an, wir vermuten, dass der Monitor defekt ist. Der Kontrast des Hintergrunds lässt sich hingegen durch das Potentiometer problemlos verstellen. Herr Buhl hat einen neuen LCD-Display bestellt, sowie kleinere, handliche Potentiometer. Diese sollten in den nächsten Stunden verfügbar sein.
