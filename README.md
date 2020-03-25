@@ -9,19 +9,20 @@ Heute haben wir uns Unity heruntergeladen und einen Acount erstellt. Wir haben e
 https://www.youtube.com/watch?v=H7d2WfQ95ws 
 
 ### 11.12.19
-Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen. 
+Heute war in der Schule leider das Internet ausgefallen, weswegen wir gezwungen waren uns ohne Recherche oder Informationen über das Programm mit der Entwicklungsumgebung vertraut zu machen. Wir stießen früh auf ein Problem, denn es gelang uns nicht, eingefügte texturen an die Strukturgitter des Programmes anzupassen. Die Größe der Texturen ließ sich nicht verändern und somit auch nicht an den Aufbau des Programmes anpassen was das Ganze sehr unstrukturiert und übersichtlich machte.
+![Unity](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Unity%20schei%C3%9F.PNG)
 
 ### 12.12.19
 Für unser Spiel wollten wir, wie auch eine Gruppe im letzten Halbjahr, unsere eigene Musik einfügen. Dafür hat sich Florian das Programm Fl-Studio runtergeladen und auch hier eine Tutorialreihe angefangen.
 LINK
-Tobias hat sich weiter über Unity informiert und am Tutorial weitergearbeitet.
+Tobias hat sich weiter über Unity informiert, versucht die texturen anzupassen und am Tutorial weitergearbeitet.
 
 ### 18.12.19
 Heute war Tobi nicht da und Florian hat sich weiter das Tutorial zu Fl-Studio angeschaut.
 Um nun aber mit dem Computerspiel voran zu kommen hat Florian sich in der zweiten Hälfte der Stunde daran gemacht, das Problem mit den zu kleinen Texturen zu lösen. Leider hat er dabei keine Lösung gefunden.
 
 ### 19.12.19
-Auch heute war Tobi nicht da und Florian hat weiterhin versucht Unity zu vertshen. Er hat nach weiteren Tutorials gesucht doch keins gefunden was die Fragen beantwortet und uns wirklich weiter bringt.
+Auch heute war Tobi nicht da und Florian hat weiterhin versucht Unity zu verstehen. Er hat nach weiteren Tutorials gesucht doch keins gefunden was die Fragen beantwortet und uns wirklich weiter bringt.
 
 ### 15.01.2020
 Spontan kamen wir auf die Idee ein Spiel im Syle von Flappy-Bird zu erstellen.Florian war heute nicht da und Tobi hat sich ein Tutorial angeguckt, mit welchem man dieses Projekt über Unity verwirklichen kann. Dieses war recht komplex und hat die gesamte Stunde in Anspruch genommen.
@@ -56,7 +57,7 @@ Wir haben die Schalung aufgebaut und einen Sketch aus dem Internet kopiert. Der 
 
 ### 12.02.2020
 
-Wir haben eine Aufgabenteilung vorgenommen um schneller voran zu kommen. Tobiversucht nun das LCD-Display zum Laufen zu bekommen und Florian erstellt den Sketch fü das Keypad.
+Wir haben eine Aufgabenteilung vorgenommen um schneller voran zu kommen. Tobiversucht nun das LCD-Display zum Laufen zu bekommen und Florian erstellt den Sketch für das Keypad.
 Florian hat ein Sketch kopiert um dessen Aufbau zu verstehen.
 
 #include <Keypad.h>
@@ -182,7 +183,7 @@ Diesen Sketch hat er dann ausprobiert und die Schaltung mit Servo und Keypad auf
 ![Arduino Schaltung](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%2BServo%2BKeypad.jpg)
 
 ### 13.02.2020
-Wir haben ein Problem:Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
+Wir haben ein Problem: Wir haben zu wenig Pins am Arduino für LCD-Display, Keypad und Servo.
 Um das zu lösen wollen wir von unserem ArduinoUNO auf ein Arduino Mega umsteigen, welcher deutlich mehr Pins hat.
 
 ![ArduinoMega](https://github.com/Florianovic/2HJ-Stundenblog/blob/master/Arduino%20Mega.jpg)
